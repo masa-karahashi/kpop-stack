@@ -2,17 +2,7 @@
 
 ![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
 
-Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
-
-Learn more about [Remix Stacks](https://remix.run/stacks).
-
-```
-npx create-remix --template netlify-templates/kpop-stack
-```
-
-Click this button to create a new Github repo, new Netlify project and deploy this stack to a [CDN](https://jamstack.org/glossary/cdn/).
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/kpop-stack)
+Facebook: [Follow me :Masayuki Karahashi](https://www.facebook.com/people/Masayuki-Karahashi/100012064576409/)
 
 ## Profile
 
@@ -22,22 +12,22 @@ Click this button to create a new Github repo, new Netlify project and deploy th
 - 勤め先　:長瀬産業株式会社　機能樹脂事業部
 - 　2019年~　機能樹脂事業部にて電子部品/半導体向けエポキシ樹脂のセールス/マーケティング
 
+
 ---
 
-## Development
+## Otehrs
 
-- Install all dependencies & the [Netlify CLI](https://docs.netlify.com/cli/get-started/):
-
+- 趣味
   ```sh
-  npm install
-  npm install netlify-cli -g
+  野球
+  サウナ
   ```
 
-- Create or connect to your Netlify project by running through the Netlify `init` script:
-
-  ```sh
-  netlify init
-  ```
+- 好きな食べ物
+　
+ ```sh
+ 　ラーメン
+ ```
 
 - Add your Supabase and session environment variables to a `.env` file like [`.env.sample`](./.env.sample) file or through the Netlify project dashboard at [https://app.netlify.com/](https://app.netlify.com/) Site settings/Build & deploy/Environment:
 
