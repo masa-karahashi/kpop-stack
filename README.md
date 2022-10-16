@@ -1,4 +1,4 @@
-# Remix K-pop Stack
+# 唐橋真之のぷろふぃーる
 
 ![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
 
@@ -14,17 +14,13 @@ Click this button to create a new Github repo, new Netlify project and deploy th
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/kpop-stack)
 
-## What's in the stack
+## Profile
 
-- [Netlify](https://netlify.com/) deployment to the [Edge](https://www.netlify.com/products/edge) + deploy previews and CI/CD
-- [Supabase](https://supabase.com/) database and authentication
-- [Tailwind](https://tailwindcss.com/) for styling
-- [Cypress](https://cypress.io) end-to-end testing
-- [Prettier](https://prettier.io) code formatting
-- [ESLint](https://eslint.org) linting
-- [TypeScript](https://typescriptlang.org) static typing
-
-Not a fan of bits of the stack? Fork it, change it, and use `npx create-remix --template your/repo`! Make it your own.
+- 名前　　:唐橋　真之(からはし　まさゆき)
+- 出身地　:新潟県新潟市
+- 最終学歴:青山学院大学　法学部
+- 勤め先　:長瀬産業株式会社　機能樹脂事業部
+- 　2019年~　機能樹脂事業部にて電子部品/半導体向けエポキシ樹脂のセールス/マーケティング
 
 ---
 
